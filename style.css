@@ -1,0 +1,70 @@
+* {
+    border: 2px solid black;
+    border-style: groove;
+    border-color: bisque;
+    background-color: bisque;
+    border-inline-start-color: bisque;
+    border-inline-end-color: bisque;
+}
+
+* {
+    background-image: url(Images/);
+}
+.title {
+    color: brown;
+    font: large; font-style: inherit;
+    text-align: center;
+}
+
+.creator {
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+}
+
+.smalltitle1 {
+    color: brown;
+    text-align: center;
+}
+
+.paragraphtitle {
+    font-style: italic;
+    text-align: center;
+}
+
+.paragraph {
+   text-align: center;
+   font-style: oblique;
+}
+
+.sourcetitle {
+    text-align: center;
+}
+
+.wikilink {
+    color: blue;
+    text-align: center;
+}
+
+.link1 {
+    text-align: center;
+}
+
+.link2 {
+    text-align: center;
+}
+
+.link3 {
+    text-align: center;
+}
+
+.link4 {
+    text-align: center;
+}
+
+.pictures {
+    position: relative;
+    width: 500px;
+    margin-left: auto;
+    left: 18%;
+}
